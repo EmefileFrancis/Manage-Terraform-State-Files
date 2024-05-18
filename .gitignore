@@ -1,0 +1,4 @@
+.idea
+staging/services/web-server-cluster/.terraform
+*.tfstate
+*.tfstate.backup
